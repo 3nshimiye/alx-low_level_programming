@@ -19,6 +19,3 @@ int print_last_digit(int n)
 
 	return (last);
 }
-
-
-8-24_hours.c
