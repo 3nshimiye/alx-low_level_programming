@@ -1,6 +1,6 @@
 /*
  * File: 1-print_numbers.c
- * Auth: Emmanuel Nshimiyimana 
+ * Auth: Emmanuel Nshimiyimana. 
  */
 
 #include "variadic_functions.h"
