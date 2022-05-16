@@ -12,13 +12,13 @@
 
 /**
  * File: variadic_functions.h
- * @repres: To represent data type.
+ * @symbol: To represent data type.
  * @print: A function pointer to a function that prints the data type correlating to the repres.
  */
 
 typedef struct printer
 {
-	char *repres;
+	char *symbol;
 	void (*print)(va_list arg);
 
 } printer_t;
