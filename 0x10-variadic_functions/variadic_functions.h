@@ -1,7 +1,7 @@
 #ifndef VARIADIC_FUNCTIONS_H
 #define VARIADIC_FUNCTIONS_H
 
-/*
+/**
  * File: variadic_functions.h
  * Author: Emmanuel Nshimiyimana
  * Desc: Prototypes of all functions and prototype of the function _putchr
@@ -10,7 +10,7 @@
 
 #include <stdarg.h>
 
-/*
+/**
  * File: variadic_functions.h
  * @repres: To represent data type.
  * @print: A function pointer to a function that prints the data type correlating to the repres.
