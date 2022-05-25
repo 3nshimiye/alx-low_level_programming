@@ -7,6 +7,6 @@
 
 void __attribute__ ((constructor)) bmain()
 {
-	printf("You're the best! and yes, you will achieve your goals");
-	printf(",\nDon't loose hope, stay in your way, God and beautiful people will find you there!\n");
+	printf("You're beat! and yet, you must allow");
+	printf(",\nI bore my house upon my back!\n");
 }
